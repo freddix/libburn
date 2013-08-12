@@ -1,12 +1,11 @@
 Summary:	Library for reading and writing optical discs
 Name:		libburn
-Version:	1.3.0
-%define		postver	.pl01
+Version:	1.3.2
 Release:	1
 License:	GPL v2+
 Group:		Libraries
-Source0:	http://files.libburnia-project.org/releases/%{name}-%{version}%{postver}.tar.gz
-# Source0-md5:	1ccbb8624b8c2b9937727000e46b52cf
+Source0:	http://files.libburnia-project.org/releases/%{name}-%{version}.tar.gz
+# Source0-md5:	3c6ee25f172ff28e7b5e5de4f9f26ba9
 URL:		http://libburnia-project.org/
 BuildRequires:	autoconf
 BuildRequires:	automake
